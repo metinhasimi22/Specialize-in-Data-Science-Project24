@@ -1,54 +1,49 @@
-Specialize-in-Data-Science-Project24 🎉
+# Specialize-in-Data-Science-Project24 🎉
 
-Bu proje, çeşitli veri bilimi ve makine öğrenmesi alanlarında çeşitli uygulamaları içermektedir. Aşağıda, her bir konunun alt başlıkları ve bağlantıları bulunmaktadır.
-Konular
-1. Clustering 🌐
+Bu proje, çeşitli veri bilimi ve makine öğrenmesi alanlarında uygulamalar içermektedir. Aşağıda, her bir konunun alt başlıkları listelenmiştir.
 
-    Music Genres - Spotify
-    Credit Scoring Case
-    Topic Model
+## Konular
 
-2. Classification 🏷️
+1. **Clustering** 🌐
+   - Music Genres - Spotify
+   - Credit Scoring Case
+   - Topic Model
 
-    Add (Reklam)
-    E-Commerce
-    Fashion MNIST
-    Hospital Appointment
-    MNIST
-    Sarcasm
+2. **Classification** 🏷️
+   - Add (Reklam)
+   - E-Commerce
+   - Fashion MNIST
+   - Hospital Appointment
+   - MNIST
+   - Sarcasm
 
-3. Regression 📈
+3. **Regression** 📈
+   - Advertising with Multi-Linear Regression
+   - Diamond Price
+   - Student Marks
+   - Tips
 
-    Advertising with Multi-Linear Regression
-    Diamond Price
-    Student Marks
-    Tips
+4. **Time Series** ⏳
+   - Currency Exchange Rate Forecast
+   - Google Stock Time Series
+   - Netflix Time Series Analysis
 
-4. Time Series ⏳
+5. **Computer Vision** 🖼️
+   - Face Detection
+   - Hand Detection
+   - Text Detection
 
-    Currency Exchange Rate Forecast
-    Google Stock Time Series
-    Netflix Time Series Analysis
+6. **NLP (Doğal Dil İşleme)** 🗣️
+   - NLP Sherlock
+   - NLP Corona News
+   - NLP Zafer Hoca News
 
-5. Computer Vision 🖼️
+7. **Recommendation System** ⭐
+   - Book Recommendation
+   - Fashion
+   - News
 
-    Face Detection
-    Hand Detection
-    Text Detection
+8. **Deep Learning** 🧠
+   - Pneumonia
+   - Cat and Dogs
 
-6. NLP (Doğal Dil İşleme) 🗣️
-
-    NLP Sherlock
-    NLP Corona News
-    NLP Zafer Hoca News
-
-7. Recommendation System ⭐
-
-    Book Recommendation
-    Fashion
-    News
-
-8. Deep Learning 🧠
-
-    Pneumonia
-    Cat and Dogs
