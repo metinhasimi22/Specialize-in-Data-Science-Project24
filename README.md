@@ -44,6 +44,6 @@ Bu proje, çeşitli veri bilimi ve makine öğrenmesi alanlarında uygulamalar i
    - News
 
 8. **Deep Learning** 🧠
-   - Pneumonia
+   - Pneumonia   (image classification)
    - Cat and Dogs
-
+   - Butterfly 
